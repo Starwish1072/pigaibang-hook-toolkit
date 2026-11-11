@@ -77,3 +77,5 @@ assets/
 ## 许可证
 
 MIT
+
+©2026 Starwish1072
