@@ -79,3 +79,9 @@ assets/
 MIT
 
 ©2026 Starwish1072
+
+## 作者
+
+Starwish1072
+
+Cammile•James（同一人）
